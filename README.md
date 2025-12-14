@@ -76,15 +76,6 @@
 
 ---
 
-## 👨‍💻 Author
-
-**Ashish Rolan**  
-- [GitHub](https://github.com/ashish7472)
-- [LinkedIn](https://www.linkedin.com/in/ashish-rolan-7088a925b/)
-- [Portfolio](https://ashish-rolan-portfolio.netlify.app/)
-
----
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and feedback are welcome!  
