@@ -27,10 +27,10 @@ function ContactMe() {
 
     emailjs
       .send(
-        'service_sk0iwq5', // EmailJS Service ID
-        'template_l1snhyc', // EmailJS Template ID
+        'service_foja3o9', // EmailJS Service ID
+        'template_g367s9q', // EmailJS Template ID
         templateParams,
-        'DiUEBna4h86Wzk6l7' // EmailJS Public Key
+        'S_zSCRaJn1l-Eopti' // EmailJS Public Key
       )
       .then(
         (response) => {
