@@ -63,7 +63,7 @@
    ```
 
 4. **Open in your browser:**  
-   Visit [http://localhost:3000](http://localhost:3000)
+   Visit https://algo-quarium-w5im.vercel.app/
 
 ---
 
