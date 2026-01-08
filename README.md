@@ -83,12 +83,6 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## ⭐️ Show Your Support
 
 If you like this project, please star the repo and share it with others!
