@@ -13,7 +13,7 @@ function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo/Title */}
         <Link to="/" className="text-2xl font-bold text-white hover:text-[#4a90e2] transition">
-          AlgoQuarium
+          AlgoQuariu
         </Link>
 
         {/* Hamburger Button (Visible on Mobile) */}
