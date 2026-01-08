@@ -43,7 +43,7 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ashish7472/AlgoQuarium.git
+   git clone https://github.com/Bittu-kumar143/AlgoQuarium.git
    cd AlgoQuarium
    ```
 
