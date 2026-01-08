@@ -6,7 +6,6 @@ import About from './pages/About';
 import Visualization from './pages/Visualization';
 import ContactMe from './pages/ContactMe';
 import Testimonials from './pages/Testimonials';
-import OtherWork from './pages/OtherWork';
 
 function App() {
   return (
