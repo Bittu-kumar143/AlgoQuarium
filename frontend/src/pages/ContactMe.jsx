@@ -128,7 +128,7 @@ function ContactMe() {
         {/* Social Media Links */}
         <div className="mt-6 flex justify-center space-x-4">
           <a
-            href="https://www.linkedin.com/in/ashish-rolan-7088a925b/"
+            href="https://linkedin.com/in/bittu-kumar-985028259"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#b0b8c4] hover:text-[#4a90e2] transition"
@@ -144,7 +144,7 @@ function ContactMe() {
             </svg>
           </a>
           <a
-            href="https://www.instagram.com/rolanashish/"
+            href="https://www.instagram.com/bittu_pb_07/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#b0b8c4] hover:text-[#4a90e2] transition"
@@ -160,7 +160,7 @@ function ContactMe() {
             </svg>
           </a>
           <a
-            href="https://x.com/rolanashish?t=6WaoqCg0Aw7qGIlQ6R2qgw&s=09"
+            href="https://x.com/_bittu_pb_07?s=11"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#b0b8c4] hover:text-[#4a90e2] transition"
@@ -176,7 +176,7 @@ function ContactMe() {
             </svg>
           </a>
           <a
-            href="https://github.com/ashish7472"
+            href="https://github.com/Bittu-kumar143/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#b0b8c4] hover:text-[#4a90e2] transition"
