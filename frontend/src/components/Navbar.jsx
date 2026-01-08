@@ -72,13 +72,6 @@ function Navbar() {
           >
             Testimonials
           </Link>
-          <Link
-            to="/other-work"
-            className="block md:inline-block text-white hover:text-[#4a90e2] transition py-2 md:py-0"
-            onClick={() => setIsOpen(false)}
-          >
-            Other Work
-          </Link>
         </div>
       </div>
     </nav>
