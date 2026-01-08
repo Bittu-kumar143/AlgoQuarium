@@ -19,7 +19,6 @@ function App() {
           <Route path="/visualization/:algo" element={<Visualization />} />
           <Route path="/contact-me" element={<ContactMe />} />
           <Route path="/testimonials" element={<Testimonials />} />
-          <Route path="/other-work" element={<OtherWork />} />
         </Routes>
       </div>
       <Footer />
